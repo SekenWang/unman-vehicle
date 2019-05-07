@@ -1,0 +1,8 @@
+prefix=/home/alwaysbug/vehicle/devel
+
+Name: instructor_on_vehicle
+Description: Description of instructor_on_vehicle
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/alwaysbug/vehicle/devel/lib 
+Requires: 

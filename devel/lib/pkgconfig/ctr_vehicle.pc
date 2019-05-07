@@ -1,0 +1,8 @@
+prefix=/home/alwaysbug/vehicle/devel
+
+Name: ctr_vehicle
+Description: Description of ctr_vehicle
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/alwaysbug/vehicle/devel/lib 
+Requires: 

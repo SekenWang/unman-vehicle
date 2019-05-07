@@ -1,0 +1,7 @@
+<launch>
+
+<node pkg = "joy" type = "joy_node" name="joy_node" />
+<node pkg = "instructor_on_vehicle" type = "instructor_on_vehicle" name="instructor_on_vehicle" />
+<node pkg = "ctr_vehicle" type = "ctr_vehicle_node" name="ctr_vehicle_node" />
+
+</launch>
